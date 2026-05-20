@@ -19,4 +19,3 @@ My background involves working closely with outsourced teams and sub-contracting
 
 * **Production Maintenance:** Optimizing, debugging, and updating existing codebases to ensure high availability and smooth user experiences.
 * **Feature Engineering:** Scoping and implementing new application features from front-to-back using TypeScript ecosystems.
-* **Collaborative Development:** Working effectively within subcontracting frameworks and outsourced environments to deliver clean, maintainable code.
